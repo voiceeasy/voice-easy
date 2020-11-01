@@ -20,11 +20,11 @@ VoiceEasy is a software application capable of providing a swift and smooth expe
 
 - Voice Enable (Use speech recognition) 
 
-![image info](./Screenshots/Voice-enable)
+![image info](./Screenshots/Voice-enable.png)
 
 - Navigation (Using speech) 
 
-![image info](./Screenshots/yahoo)
+![image info](./Screenshots/yahoo.png)
 
 <h3>Contributors</h3>
 
