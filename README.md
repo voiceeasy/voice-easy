@@ -18,3 +18,29 @@ VoiceEasy is a software application capable of providing a swift and smooth expe
 
 ![image info](./Screenshots/Home.png)
 
+- Voice Enable (Use speech recognition) 
+
+![image info](./Screenshots/Voice-enable)
+
+- Navigation (Using speech) 
+
+![image info](./Screenshots/yahoo)
+
+<h3>Contributors</h3>
+
+- Ashish Paul Kurian (17BCI0160)
+- Sameer Shiraz (17BCI0162)
+- Adithya S Anil (17BCI0163)
+- Nived Sanil (17BCE2201)
+- Supratim Sarkar (17BCE2203)
+- Nigel John (17BCE2224)
+
+<h3>Attribution</h3>
+
+- MIT Open Source License [View License](https://opensource.org/licenses/MIT)
+
+
+
+
+
+
